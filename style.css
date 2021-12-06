@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(pink,yellow);
+    text-align: center;
+}
+h1{
+    text-shadow: 2px 2px grey;
+     font-size: 30px;
+}
+#home{
+    padding: 20px;
+    font-size:18px;
+}
